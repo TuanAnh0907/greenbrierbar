@@ -1,0 +1,40 @@
+/**
+ * Views Slideshow Xtra CSS.
+ */
+
+.views_slideshow_main {
+    position: relative;
+}
+
+.views-slideshow-xtra-overlay {
+    z-index: 50;
+    position: absolute;
+    top: 0;
+}
+
+.views-slideshow-xtra-overlay-row {
+    display: absolute;
+    min-height: 10px;
+}
+
+/*
+     FILE ARCHIVED ON 16:07:53 Mar 06, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:15:40 Aug 15, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 2.347
+  exclusion.robots: 0.032
+  exclusion.robots.policy: 0.02
+  esindex: 0.013
+  cdx.remote: 19.589
+  LoadShardBlock: 131.577 (3)
+  PetaboxLoader3.datanode: 111.023 (5)
+  PetaboxLoader3.resolve: 144.534 (2)
+  load_resource: 133.7
+  loaddict: 31.182
+*/
